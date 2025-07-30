@@ -1,4 +1,3 @@
-
 # Sentiment Analyzer for Short Texts
 
 A compact, high-accuracy NLP model for real-time analysis of micro-content—including tweets, chat messages, and news headlines.
