@@ -1,4 +1,3 @@
-Here’s a complete, well-structured **README.md** for your "Sentiment Analyzer for Short Texts" project in the format you requested, incorporating your key features, tech stack, active project details, and future goals.
 
 # Sentiment Analyzer for Short Texts
 
